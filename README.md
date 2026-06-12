@@ -87,18 +87,6 @@ In a production environment, Security Groups should follow the principle of leas
 
 ---
 
-## Screenshots
-
-(Add your screenshots here)
-
-Example:
-
-![FSx Configuration](screenshots/fsx.png)
-
-![EC2 Server Connection](screenshots/ec2.png)
-
----
-
 ## Project Demo
 
 Video demonstration:
