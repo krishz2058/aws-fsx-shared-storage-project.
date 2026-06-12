@@ -102,7 +102,7 @@ Example:
 ## Project Demo
 
 Video demonstration:
-(Add your LinkedIn/YouTube/Drive link here)
+https://www.linkedin.com/posts/activity-7470011270453182464-5W_O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE9h_WkBEi-m86kaAEdyLJq4TMB6q4c4ovY
 
 ---
 
